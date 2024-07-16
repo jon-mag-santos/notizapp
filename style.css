@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url(./fonts/Raleway-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: 'Raleway';
+}
+
+.note {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: lightslategrey;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}

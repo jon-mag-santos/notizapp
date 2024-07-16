@@ -1,0 +1,5 @@
+.btnDiv {
+    display: flex;
+    align-self: normal;
+    justify-content: space-around;
+}
